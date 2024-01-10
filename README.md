@@ -1,2 +1,2 @@
 ### Demo Image
-[![demo](palenight.png)]
+![demo](palenight.png)
